@@ -10,11 +10,11 @@ The global median dwell time, referring to the duration between the initial intr
 Although companies are detecting attacks faster, we are still observing high profile attacks like ransomware, Man-In-The-Middle and DDoS wreaking havoc. The goal of Cyber Deception is to provide a proactive defense by generating traps or decoys to mimic the legitimate technology operating in the system. This can trick attackers in their reconnaissance phase and trigger intrusion alert in real time. 
 Cyber Deception facilitates Threat Intel on organizations by providing an in-depth view of attackers’ operation on their own network. Not the ones previously observed months ago in other circumstances. It can also serve to track the attackers and identify them, as well as identifying insiders who attempt privilege escalation.
 
-The goal of this project is to demonstrate the limitations of existing security mechanisms and demonstrate the benefit of implementing  cyber deception strategies to amplify security. 
 
  
  ## 📌Objectives
- In this project, I will cover the following aspects:
+ 
+ The goal of this project is to demonstrate the limitations of existing security mechanisms and demonstrate the benefit of implementing Cyber Deception strategies to amplify security. I will cover the following aspects:
 -	Review of existing Security Tactics &Techniques and their limitations
 -	Advantage of implementing Cyber Deception.
 -	Deception Techniques & Technologies.
@@ -23,6 +23,7 @@ The goal of this project is to demonstrate the limitations of existing security 
 
 
 ## ⛓Methodology
+
 -	Experimental testing on my virtual lab using VM Ware, Ubuntu, Windows, Security Onion and Kali Linux.
 -	Simulations with tools like Canary Tokens, Honey badger, SpiderTrap etc.
 -	Creating fake entries in robots.txt, fake login portals, fake accounts, and deceptive sensitive documents.
