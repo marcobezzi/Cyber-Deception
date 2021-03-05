@@ -29,4 +29,7 @@ Cyber Deception facilitates Threat Intel on organizations by providing an in-dep
 -	Creating fake entries in robots.txt, fake login portals, fake accounts, and deceptive sensitive documents.
 -	Setting up deceptive services, systems, and traffic.
 
+![image](https://user-images.githubusercontent.com/19249770/110185176-aab37a00-7ddf-11eb-9015-6d11a72c01c9.png)
+
+
 
